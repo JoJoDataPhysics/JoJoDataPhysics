@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoJoDataPhysics
 - 👀 I’m interested in Math, Programming and Physics
-- 🌱 I’m currently learning Rust 
+- 🌱 I’m currently learning Rust programming language (started 09/24)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: "The isle is full of noises, sounds, and sweet airs, that give delight..."
 
