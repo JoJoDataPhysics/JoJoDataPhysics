@@ -2,7 +2,7 @@
 - 👀 I’m interested in Math, Programming and Physics
 - 🌱 I’m currently learning Rust programming language (started 09/24)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: "The isle is full of noises, sounds, and sweet airs, that give delight..."
+- ⚡ Fun fact: "It is darkest at the foot of the lighthouse."
 
 <!---
 JoJoDataPhysics/JoJoDataPhysics is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
